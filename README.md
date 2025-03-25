@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #FF6347;">VIRUSI MULTI DEVICE</h1>
+<h1 align="center" style="color: #228B22;">VIRUSI MULTI DEVICE</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
