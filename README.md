@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img alt="VIRUSI-MD" width="700" height="300" src="https://files.catbox.moe/v3gnev.jpg">
+  <img alt="VIRUSI-MD" width="700" height="300" src="">
 </p>
